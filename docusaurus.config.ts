@@ -15,14 +15,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://16280.github.io',
+  url: 'https://juliusarolovitch.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/16280.github.io/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: '16280', // Usually your GitHub org/user name.
+  organizationName: 'juliusarolovitch', // Usually your GitHub org/user name.
   projectName: '16280.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -45,7 +45,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/16280/16280.github.io/tree/main/',
+            'https://github.com/juliusarolovitch/16280.github.io/tree/main/',
         },
         blog: false, // Disable blog
         theme: {
@@ -77,7 +77,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/16280/16280.github.io',
+          href: 'https://github.com/juliusarolovitch/16280.github.io',
           label: 'GitHub',
           position: 'right',
         },
