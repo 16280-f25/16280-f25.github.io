@@ -1,0 +1,53 @@
+yangshun:
+  name: Yangshun Tay
+  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
+  url: https://linkedin.com/in/yangshun
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: yangshunz
+    linkedin: yangshun
+    github: yangshun
+    newsletter: https://www.greatfrontend.com
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
+
+instructor:
+  name: Course Instructor
+  title: 16-280 Instructor
+  url: https://www.cmu.edu
+  image_url: https://github.com/github.png
+  email: instructor@cmu.edu
+
+ta1:
+  name: Teaching Assistant 1
+  title: Graduate TA
+  url: https://www.cmu.edu
+  image_url: https://github.com/github.png
+  email: ta1@cmu.edu
+
+ta2:
+  name: Teaching Assistant 2
+  title: Graduate TA
+  url: https://www.cmu.edu
+  image_url: https://github.com/github.png
+  email: ta2@cmu.edu
+
+course-staff:
+  name: 16-280 Course Staff
+  title: Instructional Team
+  url: https://16280.github.io
+  image_url: https://github.com/github.png
+  email: 16280-staff@cmu.edu
