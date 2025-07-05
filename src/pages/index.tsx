@@ -14,10 +14,9 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          <strong>16-280</strong>
+          <strong>16-280 Intelligent Robotic Systems</strong>
         </Heading>
-        <p className="hero__subtitle">Intelligent Robotic Systems</p>
-        <p className="hero__subtitle">CMU [Semester], [Year]</p>
+        <p className="hero__subtitle">Carnegie Mellon University, Fall 2025</p>
       </div>
     </header>
   );
@@ -46,24 +45,27 @@ function HomepageContent() {
           <div className="col col--6">
             <div className="margin-vert--lg">
               <Heading as="h2">Instructor</Heading>
-              <Heading as="h3">[Professor Name]</Heading>
-              <p>[Professor Title/Department]</p>
-              <p>Email: [professor@cmu.edu]</p>
-              <p>Office: [Office Location]</p>
+              <Heading as="h3">Abhi Silwal</Heading>
+              <p>Robotics Institute</p>
+              <p>Email: asilwal@andrew.cmu.edu</p>
+              <p>Office: LL050 Collaborative Innovation Center</p>
             </div>
           </div>
           
           <div className="col col--6">
             <div className="margin-vert--lg">
               <Heading as="h2">Teaching Assistants</Heading>
-              <Heading as="h4">[TA Name 1]</Heading>
-              <p>Email: [ta1@cmu.edu]</p>
+              <Heading as="h4">Julius Arolovitch</Heading>
+              <p>Email: jarolovi@andrew.cmu.edu</p>
               
-              <Heading as="h4">[TA Name 2]</Heading>
-              <p>Email: [ta2@cmu.edu]</p>
+              <Heading as="h4">Abby DeFranco</Heading>
+              <p>Email: amdefran@andrew.cmu.edu</p>
               
-              <Heading as="h4">[TA Name 3]</Heading>
-              <p>Email: [ta3@cmu.edu]</p>
+              <Heading as="h4">Kacper Gasior</Heading>
+              <p>Email: kgasior@andrew.cmu.edu</p>
+
+              <Heading as="h4">Alex Dietrich</Heading>
+              <p>Email: ajdietri@andrew.cmu.edu</p>
             </div>
           </div>
         </div>
