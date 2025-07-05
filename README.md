@@ -35,3 +35,4 @@ This command generates static content into the `build` directory and can be serv
 ### Deployment
 
 The site is automatically deployed to GitHub Pages when changes are pushed to the main branch via GitHub Actions.
+# Deployment trigger
