@@ -54,9 +54,9 @@ function HomepageContent() {
               
               <div className="row margin-top--md">
                 <div className="col col--6">
-                  <Heading as="h4">Julius Arolovitch</Heading>
+                <Heading as="h4">Abby DeFranco</Heading>
                   <p>Head Teaching Assistant</p>
-                  <p>Email: jarolovi@andrew.cmu.edu</p>
+                  <p>Email: amdefran@andrew.cmu.edu</p>
 
                   <Heading as="h4">Kacper Gasior</Heading>
                   <p>Teaching Assistant</p>
@@ -65,9 +65,9 @@ function HomepageContent() {
                 </div>
                 
                 <div className="col col--6">
-                <Heading as="h4">Abby DeFranco</Heading>
+                <Heading as="h4">Julius Arolovitch</Heading>
                   <p>Head Teaching Assistant</p>
-                  <p>Email: amdefran@andrew.cmu.edu</p>
+                  <p>Email: jarolovi@andrew.cmu.edu</p>
                   
                   <Heading as="h4">Alex Dietrich</Heading>
                   <p>Teaching Assistant</p>
