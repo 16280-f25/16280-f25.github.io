@@ -6,7 +6,6 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '16-280 Intelligent Robotic Systems',
-  tagline: 'Exploring the intersection of AI and robotics',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
