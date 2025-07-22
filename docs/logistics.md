@@ -35,7 +35,7 @@ Debugging systems takes time. Do your part by starting assignments and seeking h
 
 ## Assignments
 
-Assignments are released weekly on Mondays and are due the following Sunday at 23:59 Eastern Standard Time. Assignments will alternate in being completed either individually or in groups week to week. 
+Assignments are released weekly on Mondays and are due the following Sunday at 23:59 Eastern Standard Time. Assignments will alternate in being completed either individually or in groups week to week. Group assignments will occasionally involve in-person design reviews, where students will demonstrate the functionality and discuss implementation with the course staff. 
 
 ## Communication
 
@@ -53,9 +53,27 @@ Assignments are released weekly on Mondays and are due the following Sunday at 2
 
 ## Late Policy
 
-- [Late submission policy]
-- [Extension policy]
-- [Academic integrity policy]
+4 penalty-free late days are allotted for individual assignments. You may take up to a total of 4 late days on each assignment. We strongly advise students to save late days for the later portion of the course, as deadlines tend to pile up towards the second half of the semester and assignments become more challenging. 
+
+After penalty-free late days are used, the maximum score for individual assignments follows: 
+
+| Days Late | Maximum Score | 
+|-----------|---------|
+| \<1 day  | 75% | 
+| \<2 days | 50% |
+| \<3 days | 25% | 
+| \<4 days | 25% | 
+| \>4 days | 0% | 
+
+It is difficult to replace the in-person experience of demonstrating the group assignments, so there are no late days on group assignments. If your group must submit late, we will accept a video demonstration up to 4 days late. The penalties follow: 
+
+| Days Late | Maximum Score | 
+|-----------|---------|
+| \<2 days  | 50% | 
+| \<4 days | 25% |
+
+There will be no extensions on assignments in general. Late days for individual assignments are intended to provide flexibility for circumstances that may arise throughout the semester rather than poor planning. If you believe you really need an extension on an assignment, contact the course staff as soon as possible and before the deadline. 
+
 
 ## Required Materials
 
