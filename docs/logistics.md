@@ -8,15 +8,15 @@ sidebar_position: 1
 
 **Course Number**: 16-280  
 **Course Title**: Intelligent Robotic Systems  
-**Semester**: Fall 2025
-**Prerequisites**: [Prerequisites]
+**Semester**: Fall 2025  
+**Prerequisites**: 21-241 or 18-202 or 21-254. Strong background in C/C++ and Python is expected.  
 
 ## Class Schedule
 
-**Lectures**: Tuesday & Thursday 15:30-16:50
-**Location**: NSH 3002
+**Lectures**: Tuesday & Thursday 15:30-16:50  
+**Location**: NSH 3002  
 **Recitations**: Thursday 17:00-17:50  
-**Location**: CIC Lower Level - Conference Room 2
+**Location**: CIC Lower Level - Conference Room 2  
 
 ## Communication
 
