@@ -18,6 +18,25 @@ sidebar_position: 1
 **Recitations**: Thursday 17:00-17:50  
 **Location**: CIC Lower Level - Conference Room 2  
 
+## Office Hours
+
+We are here to help. TA office hours use a appointment-based system. Slots will appear in the office hour queue 24 hours prior to their start. Slots on days assignments are due are limited to 15 minutes, and are available in 15 or 30 minute increments on other days. 
+Debugging systems takes time. Do your part by starting assignments and seeking help early. 
+
+**All office hours are held in the course space in CIC.**
+
+| Day      | Time       | Staff                  |
+|----------|------------|------------------------|
+| Sunday   | 11:00-13:00| Abby, Julius, Kacper   |
+| Monday   | 18:00-20:00| Alex                   |
+| Thursday | 17:00-18:00| Varies                 |
+| Friday   | TBD        | Prof. Silwal           |
+
+
+## Assignments
+
+Assignments are released weekly on Mondays and are due the following Sunday at 23:59 Eastern Standard Time. Assignments will alternate in being completed either individually or in groups week to week. 
+
 ## Communication
 
 **Piazza**: [Piazza Link]  
