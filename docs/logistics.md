@@ -8,43 +8,20 @@ sidebar_position: 1
 
 **Course Number**: 16-280  
 **Course Title**: Intelligent Robotic Systems  
-**Semester**: [Semester] [Year]  
-**Units**: [Number] units  
+**Semester**: Fall 2025
 **Prerequisites**: [Prerequisites]
 
 ## Class Schedule
 
-**Lectures**: [Day] [Time] - [Time]  
-**Location**: [Room/Building]  
-**Recitations**: [Day] [Time] - [Time]  
-**Location**: [Room/Building]  
-
-## Instructor
-
-**Name**: [Professor Name]  
-**Email**: [professor@cmu.edu]  
-**Office**: [Office Location]  
-**Office Hours**: [Day] [Time] - [Time]
-
-## Teaching Assistants
-
-**[TA Name 1]**  
-Email: [ta1@cmu.edu]  
-Office Hours: [Day] [Time] - [Time]
-
-**[TA Name 2]**  
-Email: [ta2@cmu.edu]  
-Office Hours: [Day] [Time] - [Time]
-
-**[TA Name 3]**  
-Email: [ta3@cmu.edu]  
-Office Hours: [Day] [Time] - [Time]
+**Lectures**: Tuesday & Thursday 15:30-16:50
+**Location**: NSH 3002
+**Recitations**: Thursday 17:00-17:50  
+**Location**: CIC Lower Level - Conference Room 2
 
 ## Communication
 
 **Piazza**: [Piazza Link]  
 **Canvas**: [Canvas Link]  
-**Email**: For private matters only
 
 ## Grading
 
