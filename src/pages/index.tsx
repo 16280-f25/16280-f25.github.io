@@ -87,7 +87,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Course website for 16-280 Intelligent Robotic Systems - Exploring the intersection of AI and robotics">
+      description="Course website for 16-280 Intelligent Robotic Systems">
       <HomepageHeader />
       <HomepageContent />
     </Layout>
