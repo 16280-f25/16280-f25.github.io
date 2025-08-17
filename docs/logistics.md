@@ -39,8 +39,7 @@ Assignments are released weekly on Mondays and are due the following Sunday at 2
 
 ## Communication
 
-**Piazza**: [Piazza Link]  
-**Canvas**: [Canvas Link]  
+Questions should be asked via the course Piazza page accessible through the course Canvas. 
 
 ## Grading
 
@@ -73,14 +72,6 @@ It is difficult to replace the in-person experience of demonstrating the group a
 | \<4 days | 25% |
 
 There will be no extensions on assignments in general. Late days for individual assignments are intended to provide flexibility for circumstances that may arise throughout the semester rather than poor planning. If you believe you really need an extension on an assignment, contact the course staff as soon as possible and before the deadline. 
-
-
-## Required Materials
-
-**Textbooks**: [Required textbooks]  
-**Software**: [Required software]  
-**Hardware**: [Hardware requirements]
-
 ## Course Policies
 
 **Attendance**: [Attendance policy]  
