@@ -8,7 +8,7 @@ sidebar_position: 2
 |------------|------------------------------------------------|------------------------------------|----------|
 | Aug 26     | Systems Overview: Hardware, Software & Integration | HW1 (I) ROS2 & HW1 (G) Turtle Bomb Lab Out               |  |
 | Aug 28     | Introduction to ROS2 Programming               |                                    |  |
-| Sep 2      | Sensors Used in Robotics                       | HW1 Due, HW2 Complimentary Filters (G) Out  | [MIT Slides](https://drive.google.com/file/d/0B9rLLz1XQKmaLVJLSkRwMTU0b0E/view?resourcekey=0-oUq7ThstZRP9gGOzXQz9ZA) |
+| Sep 2      | Sensors Used in Robotics                       | HW1 Due, HW2 Complimentary Filters (G) Out  | [Complementary Filter TA Notes](https://drive.google.com/file/d/1mUZHIWnpcGpnRSVbRb3KgH6O4fEun9Gc/view?usp=sharing) [MIT Slides](https://drive.google.com/file/d/0B9rLLz1XQKmaLVJLSkRwMTU0b0E/view?resourcekey=0-oUq7ThstZRP9gGOzXQz9ZA) |
 | Sep 4      | Sensor Fusion: Complementary Filters           |                                    |  |
 | Sep 9      | Kinematics, Odometry, Coordinate Frames        | HW2 Due, HW3 Pose & Kinematics (I) Out |  |
 | Sep 11     | Pose                                           |                                    | [Pose TA Notes](https://drive.google.com/file/d/1BnIqnIGjuGM7NvUtovY6RNhuKWtVqlhf/view?usp=sharing) |
