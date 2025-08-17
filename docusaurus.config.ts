@@ -70,6 +70,11 @@ const config: Config = {
           position: 'left',
         },
         {
+          to: '/docs/attendance',
+          label: 'Attendance',
+          position: 'left',
+        },
+        {
           href: 'https://github.com/16280-f25',
           label: 'GitHub',
           position: 'right',
