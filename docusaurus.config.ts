@@ -70,11 +70,6 @@ const config: Config = {
           position: 'left',
         },
         {
-          to: '/docs/project',
-          label: 'Project',
-          position: 'left',
-        },
-        {
           href: 'https://github.com/16280-f25',
           label: 'GitHub',
           position: 'right',
