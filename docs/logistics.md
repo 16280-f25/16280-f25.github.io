@@ -37,7 +37,8 @@ Debugging systems takes time. Do your part by starting assignments and seeking h
 We will add helpful resources throughout the semester for topics that we cover, which you can find in the Schedule tab. 
 The following set of resources will also prove useful over the course of the semester: 
 
-1) [ROS2 Humble Documentation](https://docs.ros.org/en/humble/index.html) 
+1) [ROS2 Humble Documentation](https://docs.ros.org/en/humble/index.html)
+2) [C++ Tutorials](https://cplusplus.com/doc/tutorial/)
 
 ## Assignments
 
@@ -78,3 +79,9 @@ It is difficult to replace the in-person experience of demonstrating the group a
 | \<4 days | 25% |
 
 There will be no extensions on assignments in general. Late days for individual assignments are intended to provide flexibility for circumstances that may arise throughout the semester rather than poor planning. If you believe you really need an extension on an assignment, contact the course staff as soon as possible and before the deadline. 
+
+## Policy on Artificial Intelligence
+
+Our interest is your learning. Nowadays, it takes even more grit to stay focused and truly engage with the material when AI tools are readily available.
+You are welcome to use AI as a study tool — to explore concepts, clarify ideas, or deepen your understanding. However, all submitted assignments must be your own original work.
+Development and debugging are not just tasks to outsource — they are essential skills that take time and practice to build. Short-circuiting this process will ultimately leave you poorly prepared for the exceptional work you’ll do in future coursework and beyond your time at CMU.
