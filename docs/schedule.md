@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Course Schedule
 
-| Date       | Topic                                           | Assignments                        | Readings |
+| Date       | Topic                                           | Assignments                        | Resources |
 |------------|------------------------------------------------|------------------------------------|----------|
 | Aug 26     | Systems Overview: Hardware, Software & Integration | HW1 TurtChat (I&G) Out               | [Reading] |
 | Aug 28     | Introduction to ROS2 Programming               |                                    | [Reading] |
@@ -12,7 +12,7 @@ sidebar_position: 2
 | Sep 4      | Sensor Fusion: Complementary Filters           |                                    | [Reading] |
 | Sep 9      | Kinematics, Odometry, Coordinate Frames        | HW2 Due, HW3 Pose & Kinematics (I) Out | [Reading] |
 | Sep 11     | Pose                                           |                                    | [Reading] |
-| Sep 16     | Probabilistic Concepts + Mapping 1             | HW3 Due, HW4 Probability & Mapping (I) Out                   | [Probability & Sensor Models](https://drive.google.com/file/d/1gBJaunl9R5NOulfjdcsoFRSLSqKdhUEZ/view?usp=sharing) |
+| Sep 16     | Probabilistic Concepts + Mapping 1             | HW3 Due, HW4 Probability & Mapping (I) Out                   | [Probability & Sensor Models TA Notes](https://drive.google.com/file/d/1gBJaunl9R5NOulfjdcsoFRSLSqKdhUEZ/view?usp=sharing) |
 | Sep 18     | Mapping 2                                      |                                    | [Reading] |
 | Sep 23     | Localization 1                                 | HW4 Due, HW5 ICP Mapping (G) Out                   | [Reading] |
 | Sep 25     | Localization 2                                 |                                    | [Reading] |
