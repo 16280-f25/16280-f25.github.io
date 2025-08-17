@@ -10,14 +10,15 @@ interface LocationStatus {
 const AttendanceForm: React.FC = () => {
   const [isFormActive, setIsFormActive] = useState(false);
   const [currentTime, setCurrentTime] = useState<Date>(new Date());
+  const [isTimeValid, setIsTimeValid] = useState(false);
   const [locationStatus, setLocationStatus] = useState<LocationStatus>({
     isLocationValid: false,
     isLocationChecked: false,
     locationError: null
   });
 
-  // Newell-Simon Hall coordinates (approximate)
-  const NSH_COORDINATES = {
+  // Lecture hall coordinates
+  const LECTURE_HALL_COORDINATES = {
     lat: 40.4435, // latitude
     lon: -79.9459 // longitude
   };
@@ -57,8 +58,8 @@ const AttendanceForm: React.FC = () => {
         const distance = calculateDistance(
           userLat, 
           userLon, 
-          NSH_COORDINATES.lat, 
-          NSH_COORDINATES.lon
+          LECTURE_HALL_COORDINATES.lat, 
+          LECTURE_HALL_COORDINATES.lon
         );
 
         setLocationStatus({
@@ -136,52 +137,110 @@ const AttendanceForm: React.FC = () => {
       const endTime = 15 * 60 + 35;   // 15:35 in minutes
       
       const isWithinTimeWindow = currentTimeInMinutes >= startTime && currentTimeInMinutes < endTime;
-      const isTimeValid = isTuesdayOrThursday && isWithinTimeWindow;
+      const timeIsValid = isTuesdayOrThursday && isWithinTimeWindow;
+      
+      setIsTimeValid(timeIsValid);
       
       // Form is active only if both time and location are valid
-      setIsFormActive(isTimeValid && locationStatus.isLocationValid);
+      setIsFormActive(timeIsValid && locationStatus.isLocationValid);
     };
-
-    // Check location first
-    if (!locationStatus.isLocationChecked) {
-      checkLocation();
-    }
 
     // Check time immediately
     checkFormAvailability();
+    
+    // Only check location if time is valid, reset location status if time is invalid
+    if (isTimeValid && !locationStatus.isLocationChecked) {
+      checkLocation();
+    } else if (!isTimeValid && locationStatus.isLocationChecked) {
+      // Reset location status when time becomes invalid to prevent info leakage
+      setLocationStatus({
+        isLocationValid: false,
+        isLocationChecked: false,
+        locationError: null
+      });
+    }
     
     // Update every 30 seconds to keep it current
     const interval = setInterval(checkFormAvailability, 30000);
     
     return () => clearInterval(interval);
-  }, [locationStatus.isLocationValid, locationStatus.isLocationChecked]);
+  }, [locationStatus.isLocationValid, locationStatus.isLocationChecked, isTimeValid]);
+
+  // If time is not valid, show generic inactive message (don't reveal location info)
+  if (!isTimeValid) {
+    return (
+      <div style={{ 
+        padding: '2.5rem', 
+        textAlign: 'center', 
+        backgroundColor: '#f8f9fa', 
+        border: '2px solid #6c757d', 
+        borderRadius: '12px',
+        marginBottom: '1rem',
+        boxShadow: '0 4px 12px rgba(108, 117, 125, 0.1)'
+      }}>
+        <h3 style={{ 
+          color: '#495057', 
+          marginBottom: '1rem',
+          fontSize: '1.3rem',
+          fontWeight: '600'
+        }}>
+          Form Inactive
+        </h3>
+        <p style={{ 
+          color: '#6c757d', 
+          margin: 0,
+          fontSize: '1rem',
+          lineHeight: '1.5'
+        }}>
+          The attendance form is not currently accepting responses.
+        </p>
+      </div>
+    );
+  }
 
   if (isFormActive) {
     return (
       <div>
-        <iframe 
-          src="https://cmu.ca1.qualtrics.com/jfe/form/SV_0UkRFM34R8dyPnE" 
-          width="100%" 
-          height="600px" 
-          style={{ border: 'none' }}
-          title="Attendance Form"
-        />
-        
         <div style={{ 
-          marginTop: '1rem', 
-          padding: '1rem', 
-          backgroundColor: '#e8f4fd', 
-          border: '1px solid #0969da', 
-          borderRadius: '6px' 
+          marginBottom: '1.5rem', 
+          padding: '1.5rem', 
+          backgroundColor: '#d1e7dd', 
+          border: '2px solid #198754', 
+          borderRadius: '12px',
+          textAlign: 'center',
+          boxShadow: '0 4px 12px rgba(25, 135, 84, 0.1)'
         }}>
-          <strong>Note:</strong> If you're having trouble viewing the form above, you can also access it directly at:{' '}
-          <a 
-            href="https://cmu.ca1.qualtrics.com/jfe/form/SV_0UkRFM34R8dyPnE" 
-            target="_blank" 
-            rel="noopener noreferrer"
-          >
-            https://cmu.ca1.qualtrics.com/jfe/form/SV_0UkRFM34R8dyPnE
-          </a>
+
+          <h3 style={{ 
+            color: '#0f5132', 
+            margin: 0, 
+            fontSize: '1.2rem',
+            fontWeight: '600'
+          }}>
+            Attendance Form Active
+          </h3>
+          <p style={{ 
+            color: '#0a3622', 
+            margin: '0.5rem 0 0 0',
+            fontSize: '0.9rem'
+          }}>
+            You may now submit your attendance
+          </p>
+        </div>
+        
+        <div style={{
+          border: '2px solid #198754',
+          borderRadius: '12px',
+          overflow: 'hidden',
+          boxShadow: '0 4px 12px rgba(25, 135, 84, 0.1)'
+        }}>
+          <iframe 
+            src="https://cmu.ca1.qualtrics.com/jfe/form/SV_0UkRFM34R8dyPnE" 
+            width="100%" 
+            height="600px" 
+            style={{ border: 'none', display: 'block' }}
+            title="Attendance Form"
+          />
         </div>
       </div>
     );
@@ -191,18 +250,30 @@ const AttendanceForm: React.FC = () => {
   if (!locationStatus.isLocationChecked) {
     return (
       <div style={{ 
-        padding: '2rem', 
+        padding: '2.5rem', 
         textAlign: 'center', 
         backgroundColor: '#e8f4fd', 
-        border: '1px solid #0969da', 
-        borderRadius: '6px',
-        marginBottom: '1rem'
+        border: '2px solid #0969da', 
+        borderRadius: '12px',
+        marginBottom: '1rem',
+        boxShadow: '0 4px 12px rgba(9, 105, 218, 0.1)'
       }}>
-        <h3 style={{ color: '#0969da', marginBottom: '1rem' }}>
+
+        <h3 style={{ 
+          color: '#0969da', 
+          marginBottom: '1rem',
+          fontSize: '1.3rem',
+          fontWeight: '600'
+        }}>
           Checking your location...
         </h3>
-        <p style={{ color: '#0969da', margin: 0 }}>
-          Please allow location access to verify you're in class.
+        <p style={{ 
+          color: '#0550ae', 
+          margin: 0,
+          fontSize: '1rem',
+          lineHeight: '1.5'
+        }}>
+          Please allow location access to verify you're in the lecture hall.
         </p>
       </div>
     );
@@ -212,20 +283,42 @@ const AttendanceForm: React.FC = () => {
   if (locationStatus.locationError) {
     return (
       <div style={{ 
-        padding: '2rem', 
+        padding: '2.5rem', 
         textAlign: 'center', 
         backgroundColor: '#f8d7da', 
-        border: '1px solid #f5c6cb', 
-        borderRadius: '6px',
-        marginBottom: '1rem'
+        border: '2px solid #dc3545', 
+        borderRadius: '12px',
+        marginBottom: '1rem',
+        boxShadow: '0 4px 12px rgba(220, 53, 69, 0.1)'
       }}>
-        <h3 style={{ color: '#721c24', marginBottom: '1rem' }}>
+
+        <h3 style={{ 
+          color: '#721c24', 
+          marginBottom: '1rem',
+          fontSize: '1.3rem',
+          fontWeight: '600'
+        }}>
           Location Access Required
         </h3>
-        <p style={{ color: '#721c24', margin: 0, marginBottom: '1rem' }}>
-          The attendance form requires location verification to ensure you're physically present in class.
+        <p style={{ 
+          color: '#721c24', 
+          margin: 0, 
+          marginBottom: '1rem',
+          fontSize: '1rem',
+          lineHeight: '1.5'
+        }}>
+          The attendance form requires location verification to ensure you're present in the lecture hall.
         </p>
-        <p style={{ color: '#856404', fontSize: '0.9rem', marginBottom: '1rem' }}>
+        <p style={{ 
+          color: '#842029', 
+          fontSize: '0.9rem', 
+          marginBottom: '1.5rem',
+          fontWeight: '500',
+          backgroundColor: '#f1aeb5',
+          padding: '8px 12px',
+          borderRadius: '6px',
+          display: 'inline-block'
+        }}>
           Error: {locationStatus.locationError}
         </p>
         <button 
@@ -234,10 +327,15 @@ const AttendanceForm: React.FC = () => {
             backgroundColor: '#0969da',
             color: 'white',
             border: 'none',
-            padding: '8px 16px',
-            borderRadius: '4px',
-            cursor: 'pointer'
+            padding: '10px 20px',
+            borderRadius: '6px',
+            cursor: 'pointer',
+            fontSize: '0.9rem',
+            fontWeight: '500',
+            transition: 'background-color 0.2s'
           }}
+          onMouseOver={(e) => e.currentTarget.style.backgroundColor = '#0550ae'}
+          onMouseOut={(e) => e.currentTarget.style.backgroundColor = '#0969da'}
         >
           Try Again
         </button>
@@ -249,77 +347,67 @@ const AttendanceForm: React.FC = () => {
   if (!locationStatus.isLocationValid) {
     return (
       <div style={{ 
-        padding: '2rem', 
+        padding: '2.5rem', 
         textAlign: 'center', 
         backgroundColor: '#f8d7da', 
-        border: '1px solid #f5c6cb', 
-        borderRadius: '6px',
-        marginBottom: '1rem'
+        border: '2px solid #dc3545', 
+        borderRadius: '12px',
+        marginBottom: '1rem',
+        boxShadow: '0 4px 12px rgba(220, 53, 69, 0.1)'
       }}>
-        <h3 style={{ color: '#721c24', marginBottom: '1rem' }}>
+
+        <h3 style={{ 
+          color: '#721c24', 
+          marginBottom: '1rem',
+          fontSize: '1.3rem',
+          fontWeight: '600'
+        }}>
           Access Restricted by Location
         </h3>
-        <p style={{ color: '#721c24', margin: 0, marginBottom: '1rem' }}>
+                <p style={{ 
+          color: '#721c24', 
+          margin: 0, 
+          marginBottom: '0.5rem',
+          fontSize: '1rem',
+          lineHeight: '1.5'
+        }}>
           The attendance form can only be accessed from within the lecture hall.
         </p>
         {locationStatus.distance && (
-          <p style={{ color: '#856404', fontSize: '0.9rem', marginBottom: '1rem' }}>
-            You are {locationStatus.distance} meters from class.
+          <p style={{ 
+            color: '#721c24', 
+            fontSize: '0.9rem', 
+            margin: '0 0 1.5rem 0'
+          }}>
+            You are approximately {locationStatus.distance} meters from the lecture hall.
           </p>
         )}
-        <button 
-          onClick={checkLocation}
-          style={{
-            backgroundColor: '#0969da',
-            color: 'white',
-            border: 'none',
-            padding: '8px 16px',
-            borderRadius: '4px',
-            cursor: 'pointer'
-          }}
-        >
-          Check Location Again
-        </button>
+        <div style={{ textAlign: 'center', marginTop: '1rem' }}>
+          <button 
+            onClick={checkLocation}
+            style={{
+              backgroundColor: '#842029',
+              color: 'white',
+              border: 'none',
+              padding: '10px 20px',
+              borderRadius: '6px',
+              cursor: 'pointer',
+              fontSize: '0.9rem',
+              fontWeight: '500',
+              transition: 'background-color 0.2s',
+              boxShadow: '0 2px 4px rgba(132, 32, 41, 0.3)'
+            }}
+            onMouseOver={(e) => e.currentTarget.style.backgroundColor = '#6f1d1b'}
+            onMouseOut={(e) => e.currentTarget.style.backgroundColor = '#842029'}
+          >
+            Check Location Again
+          </button>
+        </div>
       </div>
     );
   }
 
-  // Show time restriction message (location is valid but time is not)
-  return (
-    <div style={{ 
-      padding: '2rem', 
-      textAlign: 'center', 
-      backgroundColor: '#fff3cd', 
-      border: '1px solid #ffecb5', 
-      borderRadius: '6px',
-      marginBottom: '1rem'
-    }}>
-      <h3 style={{ color: '#664d03', marginBottom: '1rem' }}>
-        Location Verified - Waiting for class...
-      </h3>
-      <p style={{ color: '#664d03', margin: 0, marginBottom: '1rem' }}>
-        You're in the lecture hall! The attendance form will be available during:
-        <br />Tuesdays and Thursdays from 3:30 PM to 3:35 PM Eastern Time
-      </p>
-      <p style={{ color: '#6c757d', fontSize: '0.9rem', marginTop: '0.5rem' }}>
-        It's {currentTime.toLocaleString('en-US', { 
-          timeZone: 'America/New_York',
-          weekday: 'long',
-          year: 'numeric',
-          month: 'long',
-          day: 'numeric',
-          hour: '2-digit',
-          minute: '2-digit',
-          second: '2-digit',
-        })} in Pittsburgh
-      </p>
-      {locationStatus.distance && (
-        <p style={{ color: '#6c757d', fontSize: '0.8rem', marginTop: '0.5rem' }}>
-          Distance from class: ~{locationStatus.distance} meters
-        </p>
-      )}
-    </div>
-  );
+  return null;
 };
 
 export default AttendanceForm;
