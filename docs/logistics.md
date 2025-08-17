@@ -22,13 +22,6 @@ sidebar_position: 1
 
 Attendance should be filled out at the beginning of each lecture, no more than 5 minutes after the start of the lecture. The form is available [here](https://cmu.ca1.qualtrics.com/jfe/form/SV_0UkRFM34R8dyPnE).
 
-## Helpful Resources
-
-We will add helpful resources throughout the semester for topics that we cover, which you can find in the Schedule tab. 
-The following set of resources will also prove useful over the course of the semester: 
-
-1) [ROS2 Humble Documentation](https://docs.ros.org/en/humble/index.html) 
-
 ## Office Hours
 
 We are here to help. TA office hours use a appointment-based system. Slots will appear in the office hour queue 24 hours prior to their start. Slots on days assignments are due are limited to 15 minutes, and are available in 15 or 30 minute increments on other days. 
@@ -43,6 +36,12 @@ Debugging systems takes time. Do your part by starting assignments and seeking h
 | Thursday | 17:00-18:00| Varies                 |
 | Friday   | TBD        | Prof. Silwal           |
 
+## Helpful Resources
+
+We will add helpful resources throughout the semester for topics that we cover, which you can find in the Schedule tab. 
+The following set of resources will also prove useful over the course of the semester: 
+
+1) [ROS2 Humble Documentation](https://docs.ros.org/en/humble/index.html) 
 
 ## Assignments
 
