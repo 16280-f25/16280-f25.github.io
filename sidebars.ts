@@ -17,7 +17,6 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     'logistics',
     'schedule',
-    'project',
   ],
 };
 
