@@ -12,7 +12,7 @@ sidebar_position: 2
 | Sep 4      | Sensor Fusion: Complementary Filters           |                                    | [Reading] |
 | Sep 9      | Kinematics, Odometry, Coordinate Frames        | HW2 Due, HW3 Pose & Kinematics (I) Out | [Reading] |
 | Sep 11     | Pose                                           |                                    | [Reading] |
-| Sep 16     | Probabilistic Concepts + Mapping 1             | HW3 Due, HW4 Probability & Mapping (I) Out                   | [Reading] |
+| Sep 16     | Probabilistic Concepts + Mapping 1             | HW3 Due, HW4 Probability & Mapping (I) Out                   | [Probability](https://drive.google.com/file/d/1gBJaunl9R5NOulfjdcsoFRSLSqKdhUEZ/view?usp=sharing) |
 | Sep 18     | Mapping 2                                      |                                    | [Reading] |
 | Sep 23     | Localization 1                                 | HW4 Due, HW5 ICP Mapping (G) Out                   | [Reading] |
 | Sep 25     | Localization 2                                 |                                    | [Reading] |
