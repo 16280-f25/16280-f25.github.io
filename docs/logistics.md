@@ -22,6 +22,13 @@ sidebar_position: 1
 
 Attendance should be filled out at the beginning of each lecture, no more than 5 minutes after the start of the lecture. The form is available [here](https://cmu.ca1.qualtrics.com/jfe/form/SV_0UkRFM34R8dyPnE).
 
+## Helpful Resources
+
+We will add helpful resources throughout the semester for topics that we cover, which you can find in the Schedule tab. 
+The following set of resources will also prove useful over the course of the semester: 
+
+1) [ROS2 Humble Documentation](https://docs.ros.org/en/humble/index.html) 
+
 ## Office Hours
 
 We are here to help. TA office hours use a appointment-based system. Slots will appear in the office hour queue 24 hours prior to their start. Slots on days assignments are due are limited to 15 minutes, and are available in 15 or 30 minute increments on other days. 
@@ -39,7 +46,7 @@ Debugging systems takes time. Do your part by starting assignments and seeking h
 
 ## Assignments
 
-Assignments are released weekly on Mondays and are due the following Sunday at 23:59 Eastern Standard Time. Assignments will alternate in being completed either individually or in groups week to week. Group assignments will occasionally involve in-person design reviews, where students will demonstrate the functionality and discuss implementation with the course staff. 
+Assignments are released weekly on Tuesdays and are due the following Monday at 23:59 Eastern Standard Time. Assignments will alternate in being completed either individually or in groups week to week. Group assignments will occasionally involve in-person design reviews, where students will demonstrate the functionality and discuss implementation with the course staff. 
 
 ## Communication
 
