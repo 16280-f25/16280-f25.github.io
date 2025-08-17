@@ -84,4 +84,4 @@ There will be no extensions on assignments in general. Late days for individual 
 
 Our interest is your learning. Nowadays, it takes even more grit to stay focused and truly engage with the material when AI tools are readily available.
 You are welcome to use AI as a study tool — to explore concepts, clarify ideas, or deepen your understanding. However, all submitted assignments must be your own original work.
-Development and debugging are not just tasks to outsource — they are essential skills that take time and practice to build. Short-circuiting this process will ultimately leave you poorly prepared for the exceptional work you’ll do in future coursework and beyond your time at CMU.
+Development and debugging are not tasks to outsource, but are rather skills that take practice to build. Short-circuiting this process will ultimately leave you poorly prepared for the exceptional work you’ll do in future coursework and beyond your time at CMU.
