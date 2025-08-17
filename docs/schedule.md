@@ -4,29 +4,40 @@ sidebar_position: 2
 
 # Course Schedule
 
-| Lecture | Date | Topic | Assignments | Readings |
-|------|------|-------|-------------|----------|
-| 1 | [Date] | Systems Overview: Hardware, Software, & Their Integration | | [Reading] |
-| 2 | [Date] | Introduction to ROS2 Programming | | [Reading] |
-| 3 | [Date] | Sensors I: Sensors Used for Robots | [Reading] |
-| 4 | [Date] | Sensors II: Particle Filter | | [Reading] |
-| 5 | [Date] | Probability Review | | [Reading] |
-| 6 | [Date] | Sensors III: Kalman Filter I | Assignment 1 Due | [Reading] |
-| 7 | [Date] | Sensors IV: Kalman Filter II | | [Reading] |
-| 8 | [Date] | Vision I: Camera and Image Fundamentals | Assignment 2 Out | [Reading] |
-| 9 | [Date] | Vision II: Segmentation, Features, Detection, Tracking | | [Reading] |
-| 10 | [Date] | Iterative Closest Point | | [Reading] |
-| 11 | [Date] | **Exam 1** | Assignment 2 Due | |
-| 12 | [Date] | Planning I: DFS, BFS, A*, Heuristics | Assignment 3 Out | [Reading] |
-| 13 | [Date] | Planning II: Task Planning, State Machines, Behavior Trees | | [Reading] |
-| 14 | [Date] | Planning III: Configuration Space, PRM, RRT, RRT* | | [Reading] |
-| 15 | [Date] | Manipulation I: Coordinate Frames, Transformations, Forward Kinematics | | [Reading] |
-| 16 | [Date] | Manipulation II: Inverse Kinematics | | [Reading] |
-| 17 | [Date] | Learning I: Perceptron & Packpropogation | | [Reading] |
-| 18 | [Date] | Learning II: MLP, Training, Metrics | | [Reading] |
-| 19 | [Date] | Learning III: CNN, RNN | | [Reading] |
-| 20 | [Date] | Learning IV: Imitation Learning & DAgger | | [Reading] |
-| 21 | [Date] | **Exam 2** | | [Reading] |
+| Date       | Topic                                           | Assignments                        | Readings |
+|------------|------------------------------------------------|------------------------------------|----------|
+| Aug 26     | Systems Overview: Hardware, Software & Integration | HW1 TurtChat (I&G) Out               | [Reading] |
+| Aug 28     | Introduction to ROS2 Programming               |                                    | [Reading] |
+| Sep 2      | Sensors Used in Robotics                       | HW1 Due, HW2 Complimentary Filters (G) Out  | [Reading] |
+| Sep 4      | Sensor Fusion: Complementary Filters           |                                    | [Reading] |
+| Sep 9      | Kinematics, Odometry, Coordinate Frames        | HW2 Due, HW3 Pose & Kinematics (I) Out | [Reading] |
+| Sep 11     | Pose                                           |                                    | [Reading] |
+| Sep 16     | Probabilistic Concepts + Mapping 1             | HW3 Due, HW4 Probability & Mapping (I) Out                   | [Reading] |
+| Sep 18     | Mapping 2                                      |                                    | [Reading] |
+| Sep 23     | Localization 1                                 | HW4 Due, HW5 ICP Mapping (G) Out                   | [Reading] |
+| Sep 25     | Localization 2                                 |                                    | [Reading] |
+| Sep 30     | Midterm Review                                 | HW5 Due, HW6 Localization (I) Out                   |          |
+| Oct 2      | Exam 1                                         |                                    | [Reading] |
+| Oct 7      | Computer Vision I                              | HW6 Due, HW7 Computer Vision (G) Out | [Reading] |
+| Oct 9      | Computer Vision II                             |                                    | [Reading] |
+| Oct 14     | **No Class – Fall Break**                      |                                    |          |
+| Oct 16     | **No Class – Fall Break**                      |                                    |          |
+| Oct 21     | Learning I: Perceptron & Backpropagation       | HW7 Due, HW8 Optimization (I) Out                   | [Reading] |
+| Oct 23     | Learning II: MLP, CNN, Training & Metrics      |                                    | [Reading] |
+| Oct 28     | Planning I: Basics of Planning                 | HW8 Due, HW9 Autonomous Turtle Cars (G) Out                   | [Reading] |
+| Oct 30     | Planning II: Task Planning                     |                                    | [Reading] |
+| Nov 4      | **Democracy Day – No Class**                   |                                    |          |
+| Nov 6      | Planning for Navigation                        |                                    | [Reading] |
+| Nov 11     | Learning for Navigation: DAGGER                | HW9 Due, HW10 Planning for Manipulation w/ Franka & MoveIt (I) Out                  | [Reading] |
+| Nov 13     | Manipulation Basics                            |                                    | [Reading] |
+| Nov 18     | Planning for Manipulation                      | HW10 Due, HW11 Systems Intgeration (G) Out                 | [Reading] |
+| Nov 20     | Systems Integration                            |                                    | [Reading] |
+| Nov 25     | Exam 2                                         |                 |          |
+| Nov 27     | **Thanksgiving – No Class**                    |                                    |          |
+| Dec 2      | Systems Integration II / Demo Prep             |                            | [Reading] |
+| Dec 4      | Course Summary / Demo Prep                     |                                    | [Reading] |
+| Dec 9      | **Reading Day – No Class**                     |                                    |          |
+
 
 
 ## Important Dates
