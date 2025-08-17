@@ -18,6 +18,10 @@ sidebar_position: 1
 **Recitations**: Thursday 17:00-17:50  
 **Location**: CIC Lower Level - Conference Room 2  
 
+## Attendance
+
+Attendance should be filled out at the beginning of each lecture, no more than 5 minutes after the start of the lecture. The form is available [here](https://cmu.ca1.qualtrics.com/jfe/form/SV_0UkRFM34R8dyPnE).
+
 ## Office Hours
 
 We are here to help. TA office hours use a appointment-based system. Slots will appear in the office hour queue 24 hours prior to their start. Slots on days assignments are due are limited to 15 minutes, and are available in 15 or 30 minute increments on other days. 
@@ -72,8 +76,3 @@ It is difficult to replace the in-person experience of demonstrating the group a
 | \<4 days | 25% |
 
 There will be no extensions on assignments in general. Late days for individual assignments are intended to provide flexibility for circumstances that may arise throughout the semester rather than poor planning. If you believe you really need an extension on an assignment, contact the course staff as soon as possible and before the deadline. 
-## Course Policies
-
-**Attendance**: [Attendance policy]  
-**Collaboration**: [Collaboration policy]  
-**Accommodations**: [Accommodation information] 
