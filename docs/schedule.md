@@ -7,27 +7,27 @@
 | Sep 9 (Tue)  | Kinematics, Odometry, Coordinate Frames        | HW2 Due, HW3 Pose & Kinematics (I) Out |  |  |
 | Sep 11 (Thu) | Pose                                           |                                    | [Pose TA Notes](https://drive.google.com/file/d/1BnIqnIGjuGM7NvUtovY6RNhuKWtVqlhf/view?usp=sharing) | Pose & Kinematics Whiteboard Problems |
 | Sep 16 (Tue) | Probabilistic Concepts + Mapping 1             | HW3 Due, HW4 Probability & Mapping (I) Out | [Probability & Sensor Models TA Notes](https://drive.google.com/file/d/1gBJaunl9R5NOulfjdcsoFRSLSqKdhUEZ/view?usp=sharing) |  |
-| Sep 18 (Thu) | Mapping 2                                      |                                    |  |  |
+| Sep 18 (Thu) | Mapping 2                                      |                                    |  | Mapping Review & HW Walkthrough |
 | Sep 23 (Tue) | Localization 1                                 | HW4 Due, HW5 ICP Mapping (G) Out   |  |  |
-| Sep 25 (Thu) | Localization 2                                 |                                    |  |  |
+| Sep 25 (Thu) | Localization 2                                 |                                    |  | Review |
 | Sep 30 (Tue) | Midterm Review                                 | HW5 Due, HW6 Localization (I) Out  |  |  |
 | Oct 2 (Thu)  | Exam 1                                         |                                    |  |  |
 | Oct 7 (Tue)  | Computer Vision I                              | HW6 Due, HW7 Computer Vision (G) Out |  |  |
-| Oct 9 (Thu)  | Computer Vision II                             |                                    |  |  |
+| Oct 9 (Thu)  | Computer Vision II                             |                                    |  | Computer Vision Review & HW Walkthrough |
 | Oct 14 (Tue) | **No Class – Fall Break**                      |                                    |  |  |
 | Oct 16 (Thu) | **No Class – Fall Break**                      |                                    |  |  |
 | Oct 21 (Tue) | Learning I: Perceptron & Backpropagation       | HW7 Due, HW8 Optimization (I) Out  |  |  |
-| Oct 23 (Thu) | Learning II: MLP, CNN, Training & Metrics      |                                    |  |  |
+| Oct 23 (Thu) | Learning II: MLP, CNN, Training & Metrics      |                                    |  | Neural Nets Whiteboard Problems & HW Walkthrough |
 | Oct 28 (Tue) | Planning I: Basics of Planning                 | HW8 Due, HW9 Autonomous Turtle Cars (G) Out |  |  |
-| Oct 30 (Thu) | Planning II: Task Planning                     |                                    |  |  |
+| Oct 30 (Thu) | Planning II: Task Planning                     |                                    |  | Graph Search Whiteboard Problems |
 | Nov 4 (Tue)  | **Democracy Day – No Class**                   |                                    |  |  |
-| Nov 6 (Thu)  | Planning for Navigation                        |                                    |  |  |
+| Nov 6 (Thu)  | Planning for Navigation                        |                                    |  | TBD |
 | Nov 11 (Tue) | Learning for Navigation: DAGGER                | HW9 Due, HW10 Planning for Manipulation w/ Franka & MoveIt (I) Out |  |  |
-| Nov 13 (Thu) | Manipulation Basics                            |                                    |  |  |
+| Nov 13 (Thu) | Manipulation Basics                            |                                    |  | TBD |
 | Nov 18 (Tue) | Planning for Manipulation                      | HW10 Due, HW11 Systems Intgeration (G) Out |  |  |
 | Nov 20 (Thu) | Systems Integration                            |                                    |  |  |
-| Nov 25 (Tue) | Exam 2                                         |                                    |  |  |
+| Nov 25 (Tue) | Exam 2                                         |                                    |  | TBD |
 | Nov 27 (Thu) | **Thanksgiving – No Class**                    |                                    |  |  |
-| Dec 2 (Tue)  | Systems Integration II / Demo Prep             |                                    |  |  |
+| Dec 2 (Tue)  | Systems Integration II / Demo Prep             |                                    |  | TBD |
 | Dec 4 (Thu)  | Course Summary / Demo Prep                     |                                    |  |  |
 | Dec 9 (Tue)  | **Reading Day – No Class**                     |                                    |  |  |
