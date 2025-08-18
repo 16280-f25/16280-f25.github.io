@@ -25,9 +25,9 @@
 | Nov 11 (Tue) | Learning for Navigation: DAGGER                | HW9 Due, HW10 Planning for Manipulation w/ Franka & MoveIt (I) Out |  |  |
 | Nov 13 (Thu) | Manipulation Basics                            |                                    |  | TBD |
 | Nov 18 (Tue) | Planning for Manipulation                      | HW10 Due, HW11 Systems Intgeration (G) Out |  |  |
-| Nov 20 (Thu) | Systems Integration                            |                                    |  |  |
-| Nov 25 (Tue) | Exam 2                                         |                                    |  | TBD |
+| Nov 20 (Thu) | Systems Integration                            |                                    |  | TBD |
+| Nov 25 (Tue) | Exam 2                                         |                                    |  |  |
 | Nov 27 (Thu) | **Thanksgiving – No Class**                    |                                    |  |  |
-| Dec 2 (Tue)  | Systems Integration II / Demo Prep             |                                    |  | TBD |
+| Dec 2 (Tue)  | Systems Integration II / Demo Prep             |                                    |  |  |
 | Dec 4 (Thu)  | Course Summary / Demo Prep                     |                                    |  |  |
 | Dec 9 (Tue)  | **Reading Day – No Class**                     |                                    |  |  |
