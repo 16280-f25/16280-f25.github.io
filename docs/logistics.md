@@ -57,6 +57,8 @@ Questions should be asked via the course Piazza page accessible through the cour
 | Final Project | [%] | Semester-long project |
 | Participation | [%] | Class and recitation participation |
 
+Recitations are **not** required, but will cover material and examples that will be highly relevant to the homework. 
+
 ## Late Policy
 
 4 penalty-free late days are allotted for individual assignments. You may take up to a total of 4 late days on each assignment. We strongly advise students to save late days for the later portion of the course, as deadlines tend to pile up towards the second half of the semester and assignments become more challenging. 
