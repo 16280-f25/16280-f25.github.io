@@ -26,7 +26,7 @@
 | Nov 13 (Thu) | Manipulation Basics                            |                                    |  | TBD |
 | Nov 18 (Tue) | Planning for Manipulation                      | HW11 Planning for Manipulation w/ Franka & MoveIt (I) Out |  |  |
 | Nov 20 (Thu) | Systems Integration                            |                                    |  | Review |
-| Nov 25 (Tue) | Exam 2                                         |                                    |  |  |
+| Nov 25 (Tue) | Exam 2                                         | HW11 Due                                   |  |  |
 | Nov 27 (Thu) | **Thanksgiving – No Class**                    |                                    |  |  |
 | Dec 2 (Tue)  | Systems Integration II / Demo Prep             |                                    |  |  |
 | Dec 4 (Thu)  | Course Summary / Demo Prep                     |                                    |  |  |
