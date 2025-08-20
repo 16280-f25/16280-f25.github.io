@@ -59,6 +59,22 @@ Questions should be asked via the course Piazza page accessible through the cour
 Recitations are **not** required, but will cover material and examples that will be highly relevant to the homework. 
 Attendance will be collected via a form that will open in the attendance tab in the first 5 minutes of each class. Attendance at 22 of 27 lectures is required for a full score, and the score will drop linearly below that. 
 
+# Homework Weighting
+
+| HW | Weight | 
+|-----------|---------|
+| 1  | 3% | 
+| 2 | 5% |
+| 3 | 5% | 
+| 4 | 4% | 
+| 5 | 6% | 
+| 6 | 3% | 
+| 7 | 4% | 
+| 8 | 5% | 
+| 9 | 4% | 
+| 10 | 15% | 
+| 11 | 5% | 
+
 ## Late Policy
 
 4 penalty-free late days are allotted for individual assignments. You may take up to a total of 4 late days on each assignment. We strongly advise students to save late days for the later portion of the course, as deadlines tend to pile up towards the second half of the semester and assignments become more challenging. 
