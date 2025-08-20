@@ -43,37 +43,33 @@ function HomepageContent() {
               <Heading as="h2">Course Staff</Heading>
               
               <div className="row">
-                <div className="col col--6">
+                <div className="col col--3">
                   <Heading as="h3">Abhi Silwal</Heading>
                   <p>Instructor</p>
                   <p>Robotics Institute</p>
                   <p>Email: asilwal@andrew.cmu.edu</p>
                   <p>Office: LL050 Collaborative Innovation Center</p>
                 </div>
-              </div>
-              
-              <div className="row margin-top--md">
-                <div className="col col--6">
-                <Heading as="h4">Abby DeFranco</Heading>
-                  <p>Head Teaching Assistant</p>
-                  <p>Email: amdefran@andrew.cmu.edu</p>
 
-                  <Heading as="h4">Kacper Gasior</Heading>
-                  <p>Teaching Assistant</p>
-                  <p>Email: kgasior@andrew.cmu.edu</p>
-                  
-                </div>
-                
-                <div className="col col--6">
-                <Heading as="h4">Julius Arolovitch</Heading>
+                <div className="col col--3">
+                  <Heading as="h3">Julius Arolovitch</Heading>
                   <p>Head Teaching Assistant</p>
                   <p>Email: jarolovi@andrew.cmu.edu</p>
-                  
-                  <Heading as="h4">Alex Dietrich</Heading>
+                </div>
+
+                <div className="col col--3">
+                  <Heading as="h3">Kacper Gasior</Heading>
+                  <p>Teaching Assistant</p>
+                  <p>Email: kgasior@andrew.cmu.edu</p>
+                </div>
+
+                <div className="col col--3">
+                  <Heading as="h3">Alex Dietrich</Heading>
                   <p>Teaching Assistant</p>
                   <p>Email: ajdietri@andrew.cmu.edu</p>
                 </div>
               </div>
+              
             </div>
           </div>
         </div>
@@ -81,6 +77,7 @@ function HomepageContent() {
     </main>
   );
 }
+
 
 export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
