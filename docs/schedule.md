@@ -23,7 +23,7 @@
 | Nov 4 (Tue)  | **Democracy Day – No Class**                   |                                    |  |  |
 | Nov 6 (Thu)  | Planning for Navigation                        |                                    |  | TBD |
 | Nov 11 (Tue) | Learning for Navigation: DAGGER                | HW9 Due, HW10 Autonomous Turtle Cars (G) Out |  |  |
-| Nov 13 (Thu) | Manipulation Basics                            |                                    |  | TBD |
+| Nov 13 (Thu) | Manipulation Basics                            |                                    |  | Manipulation Whiteboard Problems & MoveIt Intro w/ Julius |
 | Nov 18 (Tue) | Planning for Manipulation                      | HW11 Planning for Manipulation w/ Franka & MoveIt (I) Out |  |  |
 | Nov 20 (Thu) | Systems Integration                            |                                    |  | Review |
 | Nov 25 (Tue) | Exam 2                                         | HW11 Due                                   |  |  |
