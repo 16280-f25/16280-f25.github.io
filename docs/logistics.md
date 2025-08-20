@@ -59,10 +59,11 @@ Questions should be asked via the course Piazza page accessible through the cour
 Recitations are **not** required, but will cover material and examples that will be highly relevant to the homework. 
 Attendance will be collected via a form that will open in the attendance tab in the first 5 minutes of each class. Attendance at 22 of 27 lectures is required for a full score, and the score will drop linearly below that. 
 
-# Homework Weighting
+### Homework Weighting
 
+We try to weigh assignments proportionally to their anticipated difficulty and time input. Please use this for your planning. HW10 is an integrative assignment that will combine work from the prior portions of the semester, not including manipulation topics. You are given 4 weeks to complete the assignment, which will be demo'ed during the class final exam time slot. There will be no extensions, so please plan your work wisely. 
 | HW | Weight | 
-|-----------|---------|
+|-----------|
 | 1  | 3% | 
 | 2 | 5% |
 | 3 | 5% | 
