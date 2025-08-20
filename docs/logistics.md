@@ -52,10 +52,9 @@ Questions should be asked via the course Piazza page accessible through the cour
 
 | Component | Weight | Description |
 |-----------|---------|-------------|
-| Assignments | [%] | [Number] programming assignments |
-| Midterm | [%] | In-class examination |
-| Final Project | [%] | Semester-long project |
-| Participation | [%] | Class and recitation participation |
+| Homework | 60% | 11 assignments, variably weighed |
+| Exams | 35% | Two exams, weighed equally |
+| Attendance | 5% | Attendance form each lecture |
 
 Recitations are **not** required, but will cover material and examples that will be highly relevant to the homework. 
 
