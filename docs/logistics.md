@@ -30,7 +30,7 @@ Debugging systems takes time. Do your part by starting assignments and seeking h
 | Sunday   | 11:00-13:00| Abby, Julius, Kacper   |
 | Monday   | 18:00-20:00| Alex                   |
 | Thursday | 17:00-18:00| Varies                 |
-| Friday   | TBD        | Prof. Silwal           |
+| Friday   | 14:00-15:00| Prof. Silwal           |
 
 ## Helpful Resources
 
@@ -57,6 +57,7 @@ Questions should be asked via the course Piazza page accessible through the cour
 | Attendance | 5% | Attendance form each lecture |
 
 Recitations are **not** required, but will cover material and examples that will be highly relevant to the homework. 
+Attendance will be collected via a form that will open in the attendance tab in the first 5 minutes of each class. Attendance at 22 of 27 lectures is required for a full score, and the score will drop linearly below that. 
 
 ## Late Policy
 
