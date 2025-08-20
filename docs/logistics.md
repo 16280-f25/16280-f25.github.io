@@ -46,7 +46,7 @@ Assignments are released weekly on Tuesdays and are due the following Monday at 
 
 ## Communication
 
-Questions should be asked via the course Piazza page accessible through the course Canvas. 
+Questions should be asked via the course Piazza page accessible through the course Canvas. Private questions can be addressed to the instructor or TA staff. 
 
 ## Grading
 
