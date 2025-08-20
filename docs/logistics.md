@@ -85,10 +85,10 @@ After penalty-free late days are used, the maximum score for individual assignme
 
 | Days Late | Maximum Score | 
 |-----------|---------|
-| \<1 day  | 75% | 
-| \<2 days | 50% |
-| \<3 days | 25% | 
-| \<4 days | 25% | 
+| \<1 day  | 80% | 
+| \<2 days | 60% |
+| \<3 days | 40% | 
+| \<4 days | 20% | 
 | \>4 days | 0% | 
 
 It is difficult to replace the in-person experience of demonstrating the group assignments, so there are no late days on group assignments. If your group must submit late, we will accept a video demonstration up to 4 days late. The penalties follow: 
