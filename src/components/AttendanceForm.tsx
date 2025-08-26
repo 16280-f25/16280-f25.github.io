@@ -17,14 +17,12 @@ const AttendanceForm: React.FC = () => {
     locationError: null
   });
 
-  // Lecture hall coordinates
   const LECTURE_HALL_COORDINATES = {
     lat: 40.4435, // latitude
     lon: -79.9459 // longitude
   };
-  const ALLOWED_RADIUS_METERS = 150; // Allow 150 meter radius to account for GPS accuracy
+  const ALLOWED_RADIUS_METERS = 150;
 
-  // Calculate distance between two coordinates using Haversine formula
   const calculateDistance = (lat1: number, lon1: number, lat2: number, lon2: number): number => {
     const R = 6371e3; // Radius of Earth in meters
     const φ1 = lat1 * Math.PI / 180;
@@ -40,7 +38,6 @@ const AttendanceForm: React.FC = () => {
     return R * c; // Distance in meters
   };
 
-  // Check user's location
   const checkLocation = () => {
     if (!navigator.geolocation) {
       setLocationStatus({
@@ -92,7 +89,7 @@ const AttendanceForm: React.FC = () => {
       {
         enableHighAccuracy: true,
         timeout: 10000,
-        maximumAge: 60000 // Cache for 1 minute
+        maximumAge: 60000
       }
     );
   };
@@ -103,7 +100,6 @@ const AttendanceForm: React.FC = () => {
       
       setCurrentTime(now);
       
-      // Get Eastern Time components using Intl.DateTimeFormat
       const easternFormatter = new Intl.DateTimeFormat('en-CA', {
         timeZone: 'America/New_York',
         year: 'numeric',
@@ -116,12 +112,11 @@ const AttendanceForm: React.FC = () => {
       
       const easternParts = easternFormatter.formatToParts(now);
       const easternYear = parseInt(easternParts.find(p => p.type === 'year')?.value || '2024');
-      const easternMonth = parseInt(easternParts.find(p => p.type === 'month')?.value || '1') - 1; // Month is 0-indexed
+      const easternMonth = parseInt(easternParts.find(p => p.type === 'month')?.value || '1') - 1;
       const easternDay = parseInt(easternParts.find(p => p.type === 'day')?.value || '1');
       const easternHour = parseInt(easternParts.find(p => p.type === 'hour')?.value || '0');
       const easternMinute = parseInt(easternParts.find(p => p.type === 'minute')?.value || '0');
       
-      // Create a proper Date object representing Eastern time
       const easternTime = new Date(easternYear, easternMonth, easternDay, easternHour, easternMinute);
       
       const dayOfWeek = easternTime.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
@@ -129,12 +124,10 @@ const AttendanceForm: React.FC = () => {
       const minutes = easternMinute;
       const currentTimeInMinutes = hours * 60 + minutes;
       
-      // Tuesday = 2, Thursday = 4
       const isTuesdayOrThursday = dayOfWeek === 2 || dayOfWeek === 4;
       
-      // 15:30 = 930 minutes, 15:35 = 935 minutes
       const startTime = 15 * 60 + 30; // 15:30 in minutes
-      const endTime = 15 * 60 + 35;   // 15:35 in minutes
+      const endTime = 15 * 60 + 45;   // 15:35 in minutes
       
       const isWithinTimeWindow = currentTimeInMinutes >= startTime && currentTimeInMinutes < endTime;
       const timeIsValid = isTuesdayOrThursday && isWithinTimeWindow;
