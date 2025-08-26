@@ -18,7 +18,7 @@ const AttendanceForm: React.FC = () => {
   });
 
   const LECTURE_HALL_COORDINATES = { lat: 40.4435, lon: -79.9459 };
-  const ALLOWED_RADIUS_METERS = 1000;
+  const ALLOWED_RADIUS_METERS = 150;
 
   const calculateDistance = (lat1: number, lon1: number, lat2: number, lon2: number): number => {
     const R = 6371e3;
