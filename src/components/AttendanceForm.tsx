@@ -143,7 +143,39 @@ const AttendanceForm: React.FC = () => {
     
     // Only check location if time is valid, reset location status if time is invalid
     if (isTimeValid && !locationStatus.isLocationChecked) {
-      checkLocation();
+      return (
+        <div style={{ 
+          padding: '2.5rem',
+          textAlign: 'center',
+          backgroundColor: '#e8f4fd',
+          border: '2px solid #0969da',
+          borderRadius: '12px',
+          marginBottom: '1rem',
+          boxShadow: '0 4px 12px rgba(9, 105, 218, 0.1)'
+        }}>
+          <h3 style={{ color: '#0969da', marginBottom: '1rem' }}>
+            Verify your location
+          </h3>
+          <p style={{ color: '#0550ae', marginBottom: '1.5rem' }}>
+            Safari requires you to click to allow location access.
+          </p>
+          <button 
+            onClick={checkLocation}
+            style={{
+              backgroundColor: '#0969da',
+              color: 'white',
+              border: 'none',
+              padding: '10px 20px',
+              borderRadius: '6px',
+              cursor: 'pointer',
+              fontSize: '0.9rem',
+              fontWeight: '500'
+            }}
+          >
+            Allow Location
+          </button>
+        </div>
+      );
     } else if (!isTimeValid && locationStatus.isLocationChecked) {
       // Reset location status when time becomes invalid to prevent info leakage
       setLocationStatus({
