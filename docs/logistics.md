@@ -40,6 +40,7 @@ The following set of resources will also prove useful over the course of the sem
 1) [ROS2 Humble Documentation](https://docs.ros.org/en/humble/index.html)
 2) [C++ Course Manual](https://drive.google.com/file/d/1Gucc_xUtnFeLs7rf2--DB9gojARH4IfX/view?usp=sharing)
 3) [C++ Docs](https://cplusplus.com/doc/tutorial/)
+4) [15-122 Linux Reference](https://www.cs.cmu.edu/~15122/handouts/misc/linux_quickref.pdf)
 
 ## Assignments
 
