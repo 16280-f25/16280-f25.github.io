@@ -1,6 +1,6 @@
 | Date       | Topic                                           | Assignments                        | Resources | Recitation |
 |------------|------------------------------------------------|------------------------------------|-----------|------------|
-| Aug 26 (Tue) | Systems Overview: Hardware, Software & Integration | [HW1 (I) Hello, Robot!](https://drive.google.com/file/d/1y07VIThTMi1GH6dd8htbvbFgl2vimo6M/view?usp=share_link) Out |  |  |
+| Aug 26 (Tue) | Systems Overview: Hardware, Software & Integration | [HW1 (I) Hello, Robot!](https://drive.google.com/file/d/1y07VIThTMi1GH6dd8htbvbFgl2vimo6M/view?usp=share_link) Out | [Mac Linux Setup](https://drive.google.com/file/d/1slps2d78KhcjwDnyyUUu-Dbh7EWjDTYY/view?usp=sharing) |  |
 | Aug 28 (Thu) | Introduction to ROS2 Programming               |                                    |  | Hands-On w/ ROS Publishers & Subscribers w/ Julius|
 | Sep 2 (Tue)  | Sensors Used in Robotics                       | HW1 Due, HW2 Complimentary Filters (G) Out  |  |  |
 | Sep 4 (Thu)  | Sensor Fusion: Complementary Filters           |                                    | [Complementary Filter TA Notes](https://drive.google.com/file/d/1mUZHIWnpcGpnRSVbRb3KgH6O4fEun9Gc/view?usp=sharing) [MIT Slides](https://drive.google.com/file/d/0B9rLLz1XQKmaLVJLSkRwMTU0b0E/view?resourcekey=0-oUq7ThstZRP9gGOzXQz9ZA) | Complementary Filters Review & HW Walkthrough w/ Alex|
