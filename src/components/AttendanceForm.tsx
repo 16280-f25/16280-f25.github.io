@@ -21,7 +21,7 @@ const AttendanceForm: React.FC = () => {
     lat: 40.4435, // latitude
     lon: -79.9459 // longitude
   };
-  const ALLOWED_RADIUS_METERS = 150;
+  const ALLOWED_RADIUS_METERS = 1000;
 
   const calculateDistance = (lat1: number, lon1: number, lat2: number, lon2: number): number => {
     const R = 6371e3; // Radius of Earth in meters
