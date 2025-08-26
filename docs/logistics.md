@@ -76,7 +76,27 @@ We try to weigh assignments proportionally to their anticipated difficulty and t
 | 8 | 5% | 
 | 9 | 4% | 
 | 10 | 15% | 
-| 11 | 5% | 
+| 11 | 5% |
+
+### Boundaries & Curving
+
+We anticipate grade boundaries to follow as below: 
+| % Cutoff | Letter Grade |
+|---------|---------------|
+| 90% | A |
+| 80% | B |
+| 70% | C |
+| 60% | D |
+
+Individual assignments and exams will not be curved. Final grades may be adjusted up, but never down. Borderline grades will be evaluated on a case-by-case basis, taking into account attendance, effort, and performance over the course of the semester. 
+
+### Regrades
+
+We occasionally make mistakes in grading. If you believe your assignment was not graded according to the rubric published in Gradescope, you may submit a regrade request through Gradescope *within one week of grade release*. 
+
+### Bonuses
+
+Bonus points will occasionally be offered on assignments throughout the semester to complete challenge or extensions of assignments that will further strengthen and improve your understanding. We encourage you to complete the bonus opportunities that are exciting to you. 
 
 ## Late Policy
 
