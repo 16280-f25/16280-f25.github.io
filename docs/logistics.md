@@ -20,8 +20,8 @@ sidebar_position: 1
 
 ## Office Hours
 
-We are here to help. TA office hours use a appointment-based system. Slots will appear in the office hour queue 24 hours prior to their start. Slots on days assignments are due are limited to 15 minutes, and are available in 15 or 30 minute increments on other days. 
-Debugging systems takes time. Do your part by starting assignments and seeking help early. 
+We are here to help. TA office hours use a queue-based system. The queue will open at the start of office hours - you can find the link to the queue in the top navigation bar of the site. Slots are limited to 15 minutes. 
+Debugging systems takes time. Do your part by starting assignments and seeking help early. For questions that require more assistance, please reach out to the course staff to request a meeting outside of office hours. 
 
 **All office hours are held in the course space in CIC.**
 
@@ -48,7 +48,7 @@ Assignments are released weekly on Tuesdays and are due the following Monday at 
 
 ## Communication
 
-Questions should be asked via the course Piazza page accessible through the course Canvas. Private questions can be addressed to the instructor or TA staff. 
+Questions should be asked via the course Piazza page accessible through the course Canvas. Private questions can be addressed to the instructor or TA staff via email. 
 
 ## Grading
 
