@@ -75,6 +75,11 @@ const config: Config = {
           position: 'left',
         },
         {
+          to: 'https://ohq.eberly.cmu.edu/#/courses',
+          label: 'OH Queue',
+          position: 'left',
+        },
+        {
           href: 'https://github.com/16280-f25',
           label: 'GitHub',
           position: 'right',
