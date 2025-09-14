@@ -32,6 +32,8 @@ Debugging systems takes time. Do your part by starting assignments and seeking h
 | Thursday | 18:00-19:00| Varies                 |
 | Friday   | 14:00-15:00| Prof. Silwal           |
 
+**Julius 09/14 OH Remote: [Link](https://cmu.zoom.us/j/97351526016?pwd=KKs43pAAIqZ8lJcQDb9QTZzdbCDA9k.1)**
+
 ## Helpful Resources
 
 We will add helpful resources throughout the semester for topics that we cover, which you can find in the Schedule tab. 
