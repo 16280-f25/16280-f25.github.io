@@ -32,7 +32,7 @@ Debugging systems takes time. Do your part by starting assignments and seeking h
 | Thursday | 18:00-19:00| Varies                 |
 | Friday   | 14:00-15:00| Prof. Silwal           |
 
-**Julius 09/14 OH Remote: [Link](https://cmu.zoom.us/j/97351526016?pwd=KKs43pAAIqZ8lJcQDb9QTZzdbCDA9k.1)**
+**Julius 09/14 OH Remote: [Link](https://cmu.zoom.us/j/99534568757?pwd=RX9MBiumm2C9cxeB2YJq6LBiUEWNPD.1)**
 
 ## Helpful Resources
 
