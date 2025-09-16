@@ -6,11 +6,11 @@
 | Sep 4 (Thu)  | Sensor Fusion: Complementary Filters           |                                    | [Complementary Filter TA Notes](https://drive.google.com/file/d/1mUZHIWnpcGpnRSVbRb3KgH6O4fEun9Gc/view?usp=sharing) [MIT Slides](https://drive.google.com/file/d/0B9rLLz1XQKmaLVJLSkRwMTU0b0E/view?resourcekey=0-oUq7ThstZRP9gGOzXQz9ZA) | Complementary Filters Review & HW Walkthrough w/ Alex|
 | Sep 9 (Tue)  | Kinematics, Odometry, Coordinate Frames        | HW2 Due, [HW3 Pose & Kinematics (I)](https://drive.google.com/file/d/1xB0QcnFMseg7K_cdzSca57G33PVz-y7B/view?usp=sharing) [LaTeX Download](https://drive.google.com/file/d/13s8M0XJhBkgTjv9vHrZ8yez8gKWWn0Ii/view?usp=sharing) Out | [2D Rotations & Transllations Notes](https://drive.google.com/file/d/15WQjphW-P6UR8wocGEfxVkWPaZAmone6/view?usp=sharing) [Differential Drive Kinematics Notes](https://drive.google.com/file/d/1TCf1BpluDff0CcGtp5VKf9lwZkR93eqQ/view?usp=share_link) |  |
 | Sep 11 (Thu) | Pose                                           |                                    | [Pose TA Notes](https://drive.google.com/file/d/1BnIqnIGjuGM7NvUtovY6RNhuKWtVqlhf/view?usp=sharing) | Pose & Kinematics Whiteboard Problems w/ Julius |
-| Sep 16 (Tue) | Probabilistic Concepts + Mapping 1             | HW3 Due, HW4 Probability & Mapping (I) Out | [Probability & Sensor Models TA Notes](https://drive.google.com/file/d/1gBJaunl9R5NOulfjdcsoFRSLSqKdhUEZ/view?usp=sharing) |  |
+| Sep 16 (Tue) | Probabilistic Concepts + Mapping 1             | HW3 Due, HW4 ICP Mapping (G) Out | [Probability & Sensor Models TA Notes](https://drive.google.com/file/d/1gBJaunl9R5NOulfjdcsoFRSLSqKdhUEZ/view?usp=sharing) |  |
 | Sep 18 (Thu) | Mapping 2                                      |                                    |  | Mapping Review & HW Walkthrough w/ Kacper|
-| Sep 23 (Tue) | Localization 1                                 | HW4 Due, HW5 ICP Mapping (G) Out   |  |  |
+| Sep 23 (Tue) | Localization 1                                 | HW5 Occupancy Grid Mapping & C++ QoS (I) Out   |  |  |
 | Sep 25 (Thu) | Localization 2                                 |                                    |  | Review w/ Alex|
-| Sep 30 (Tue) | Midterm Review                                 | HW5 Due, HW6 Localization (I) Out  |  |  |
+| Sep 30 (Tue) | Midterm Review                                 | HW4 & HW5 Due, HW6 Localization (I) Out  |  |  |
 | Oct 2 (Thu)  | Exam 1                                         |                                    |  |  |
 | Oct 7 (Tue)  | Computer Vision I                              | HW6 Due, HW7 Computer Vision (G) Out |  |  |
 | Oct 9 (Thu)  | Computer Vision II                             |                                    |  | Computer Vision Review & HW Walkthrough w/ TBD|
