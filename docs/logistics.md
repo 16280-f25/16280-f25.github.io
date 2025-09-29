@@ -27,7 +27,7 @@ Debugging systems takes time. Do your part by starting assignments and seeking h
 
 | Day      | Time       | Staff                  |
 |----------|------------|------------------------|
-| Sunday   | 11:00-13:00, 15:00-17:00 | Kacper, Julius   |
+| Sunday   | 12:00-14:00, 15:00-17:00 | Kacper, Julius   |
 | Monday   | 17:00-19:00| Alex                   |
 | Thursday | 18:00-19:00| Varies                 |
 | Friday   | 14:00-15:00| Prof. Silwal           |
