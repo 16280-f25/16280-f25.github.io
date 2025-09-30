@@ -10,7 +10,7 @@
 | Sep 18 (Thu) | Mapping 2                                      |                                    |  | Mapping Review & HW Walkthrough w/ Kacper|
 | Sep 23 (Tue) | Localization 1                                 | [HW5 Occupancy Grid Mapping](https://drive.google.com/file/d/1Z2nvadmTfFkOv1UcOiIysIZGBZStLJAY/view?usp=drive_link) [Latex](https://drive.google.com/file/d/1ZoDOledI3Yaj9gFNKWmAk6WZM_Bs5j7X/view?usp=sharing) & C++ QoS (I) Out   | [SLAM Notes](https://drive.google.com/file/d/1XG4VH0IM_b3dWb4ro4ZV7StXjsUr2byV/view?usp=drive_link) |  |
 | Sep 25 (Thu) | Localization 2                                 |                                    | [SLAM Notes 2](https://drive.google.com/file/d/16p450RKW3dt176F9msj5-dezjM0uNm2C/view?usp=sharing) | [Review w/ Alex](https://cmu.zoom.us/rec/share/ptKMRQSu8fC69nnENJMx2bRfGfH90ENqQL6Wi-wXxaEfzKNAwKanLKl7UemV3IK2.nskRP44_02eySHs0Passcode:Xg@1!+v@) |
-| Sep 30 (Tue) | Midterm Review                                 | HW4 & HW5 Due, HW6 Localization (I) Out  |  |  |
+| Sep 30 (Tue) | Midterm Review                                 | HW4 & HW5 Due, HW6 [Localization (I) Out](https://drive.google.com/file/d/1Y1WiJ8JOzqPb1Csr2f1ipEw4iegfoNgv/view?usp=sharing) [Latex](https://www.overleaf.com/read/pkrctbzjgprx#fccad5)  |  |  |
 | Oct 2 (Thu)  | Exam 1                                         |                                    |  |  |
 | Oct 7 (Tue)  | Computer Vision I                              | HW6 Due, HW7 Computer Vision (G) Out |  |  |
 | Oct 9 (Thu)  | Computer Vision II                             |                                    |  | Computer Vision Review & HW Walkthrough w/ TBD|
