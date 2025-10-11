@@ -13,7 +13,7 @@
 | Sep 30 (Tue) | Midterm Review                                 | [HW6 Localization (I) Out](https://drive.google.com/file/d/1w32cq8qmlxcEHZbksB8tbMlWNWVFeQGU/view?usp=sharing) [Latex](https://www.overleaf.com/read/pkrctbzjgprx#fccad5)  |  |  |
 | Oct 2 (Thu)  | Exam 1                                         | HW4 & HW5 Due                                   |  |  |
 | Oct 7 (Tue)  | Computer Vision I                              |  |  |  |
-| Oct 9 (Thu)  | Computer Vision II                             | HW6 Due, HW7 Computer Vision (G) Out                                   |  | Computer Vision Review & HW Walkthrough w/ TBD|
+| Oct 9 (Thu)  | Computer Vision II                             | HW6 Due, [HW7 Computer Vision](https://drive.google.com/file/d/1m6AiBv7xxgVkfjmk5jNC8uHfv-acyKPb/view?usp=drivesdk) (G) Out                                   |  | Computer Vision Review & HW Walkthrough w/ TBD|
 | Oct 14 (Tue) | **No Class – Fall Break**                      |                                    |  |  |
 | Oct 16 (Thu) | **No Class – Fall Break**                      |                                    |  |  |
 | Oct 21 (Tue) | Learning I: Perceptron & Backpropagation       |   |  |  |
