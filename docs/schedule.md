@@ -13,21 +13,21 @@
 | Sep 30 (Tue) | Midterm Review                                 | [HW6 Localization (I) Out](https://drive.google.com/file/d/1w32cq8qmlxcEHZbksB8tbMlWNWVFeQGU/view?usp=sharing) [Latex](https://www.overleaf.com/read/pkrctbzjgprx#fccad5)  |  |  |
 | Oct 2 (Thu)  | Exam 1                                         | HW4 & HW5 Due                                   |  |  |
 | Oct 7 (Tue)  | Computer Vision I                              |  |  |  |
-| Oct 9 (Thu)  | Computer Vision II                             | HW6 Due, [HW7 Computer Vision](https://drive.google.com/file/d/1m6AiBv7xxgVkfjmk5jNC8uHfv-acyKPb/view?usp=drivesdk) (G) Out                                   |  | Computer Vision Review & HW Walkthrough w/ TBD|
+| Oct 9 (Thu)  | Computer Vision II                             | HW6 Due, [HW7 Computer Vision](https://drive.google.com/file/d/1m6AiBv7xxgVkfjmk5jNC8uHfv-acyKPb/view?usp=drivesdk) (G) Out                                   |  | |
 | Oct 14 (Tue) | **No Class – Fall Break**                      |                                    |  |  |
 | Oct 16 (Thu) | **No Class – Fall Break**                      |                                    |  |  |
-| Oct 21 (Tue) | Learning I: Perceptron & Backpropagation       |   |  |  |
+| Oct 21 (Tue) | Learning I: Perceptron & Backpropagation       |   |  | Computer Vision Review & HW Walkthrough w/ Kacper |
 | Oct 23 (Thu) | Learning II: MLP, CNN, Training & Metrics      | HW7 Due, [HW8 Optimization (I)](https://drive.google.com/file/d/1aaQB9a-4lFdp83T6a1hezWadS96HN_TG/view?usp=sharing) Out                                   |  | Neural Nets Whiteboard Problems & HW Walkthrough w/ Julius|
 | Oct 28 (Tue) | Planning I: Graph Planners                 |  |  |  |
 | Oct 30 (Thu) | Planning II: Sampling-based Planners                    | HW8 Due, HW9 Planning (I) Out                                   |  | Graph Search Whiteboard Problems w/ Julius|
 | Nov 4 (Tue)  | **Democracy Day – No Class**                   |                                    |  |  |
-| Nov 6 (Thu)  | Planning for Navigation                        |                                    |  | TBD |
+| Nov 6 (Thu)  | Planning III: Cost maps, C-space, Local & Global Planners                        |                                    |  | Jupiter Notebooks, PyTorch, & Networks w/ Smrithi |
 | Nov 11 (Tue) | Learning for Navigation: DAGGER                | HW9 Due, HW10 Autonomous Turtle Cars (G) Out |  |  |
-| Nov 13 (Thu) | Manipulation I                            |                                    |  | Manipulation Whiteboard Problems & MoveIt Intro w/ Julius |
+| Nov 13 (Thu) | Manipulation I                            |                                    |  | Manipulation Whiteboard Problems w/ Smrithi |
 | Nov 18 (Tue) | Manipulation II                      | HW11 Manipulation (G) Out |  |  |
-| Nov 20 (Thu) | Systems Integration                            |                                    |  | Review |
+| Nov 20 (Thu) | Systems Integration                            |                                    |  | Review w/ Alex+Kacper |
 | Nov 25 (Tue) | Exam 2                                         | HW11 Due                                   |  |  |
 | Nov 27 (Thu) | **Thanksgiving – No Class**                    |                                    |  |  |
 | Dec 2 (Tue)  | Systems Integration II / Demo Prep             |                                    |  |  |
-| Dec 4 (Thu)  | Course Summary / Demo Prep                     |                                    |  |  |
-| Dec 9 (Tue)  | **Reading Day – No Class**                     | HW 10 Demo During Final Exam Time Slot      |  |  |
+| Dec 4 (Thu)  | Course Summary / Demo Prep                     |                                    |  | HW 10 Demos |
+| Dec 9 (Tue)  | **Reading Day – No Class**                     |       |  |  |
