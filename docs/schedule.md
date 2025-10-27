@@ -17,7 +17,7 @@
 | Oct 14 (Tue) | **No Class – Fall Break**                      |                                    |  |  |
 | Oct 16 (Thu) | **No Class – Fall Break**                      |                                    |  |  |
 | Oct 21 (Tue) | Learning I: Perceptron & Backpropagation       |   |  | Computer Vision Review & HW Walkthrough w/ Kacper |
-| Oct 23 (Thu) | Learning II: MLP, CNN, Training & Metrics      | HW7 Due, [HW8 Optimization (I)](https://drive.google.com/file/d/1aaQB9a-4lFdp83T6a1hezWadS96HN_TG/view?usp=sharing) Out                                   |  | Neural Nets Whiteboard Problems & HW Walkthrough w/ Julius|
+| Oct 23 (Thu) | Learning II: MLP, CNN, Training & Metrics      | HW7 Due, [HW8 Optimization (I)](https://github.com/16280-f25/hw8\_F25) [LaTeX](https://drive.google.com/file/d/1nsrkgYnrwu3b0d0GDeN7ElQpFNPeRxRv/view?usp=sharing) Out                                   |  | Neural Nets Whiteboard Problems & HW Walkthrough w/ Julius|
 | Oct 28 (Tue) | Planning I: Graph Planners                 |  |  |  |
 | Oct 30 (Thu) | Planning II: Sampling-based Planners                    | HW8 Due, HW9 Planning (I) Out                                   |  | Graph Search Whiteboard Problems w/ Julius|
 | Nov 4 (Tue)  | **Democracy Day – No Class**                   |                                    |  |  |
