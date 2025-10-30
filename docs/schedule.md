@@ -19,7 +19,7 @@
 | Oct 21 (Tue) | Learning I: Perceptron & Backpropagation       |   |  | Computer Vision Review & HW Walkthrough w/ Kacper |
 | Oct 23 (Thu) | Learning II: MLP, CNN, Training & Metrics      | HW7 Due, [HW8 Optimization (I)](https://drive.google.com/file/d/1d2QHpK5FGSo9NlZdLpcLhjponXQqPT4n/view?usp=share_link) [LaTeX](https://drive.google.com/file/d/1nsrkgYnrwu3b0d0GDeN7ElQpFNPeRxRv/view?usp=sharing) Out                                   |  | Neural Nets Whiteboard Problems & HW Walkthrough w/ Julius|
 | Oct 28 (Tue) | Planning I: Graph Planners                 |  |  |  |
-| Oct 30 (Thu) | Planning II: Sampling-based Planners                    | HW8 Due, HW9 Planning (I) Out                                   |  | Graph Search Whiteboard Problems w/ Julius|
+| Oct 30 (Thu) | Planning II: Sampling-based Planners                    | HW8 Due, [HW9A Planning (I)](https://drive.google.com/file/d/1T1XGFiUa5fisBjnSMWCO0aU2otbpi_mh/view?usp=sharing) [LaTeX](https://drive.google.com/file/d/1Sx8JE0jiebuZIK9UB7iL18ETjNixrVc1/view?usp=sharing) Out                                   |  | Graph Search Whiteboard Problems w/ Julius|
 | Nov 4 (Tue)  | **Democracy Day – No Class**                   |                                    |  |  |
 | Nov 6 (Thu)  | Planning III: Cost maps, C-space, Local & Global Planners                        |                                    |  | Jupiter Notebooks, PyTorch, & Networks w/ Smrithi |
 | Nov 11 (Tue) | Learning for Navigation: DAGGER                | HW9 Due, HW10 Autonomous Turtle Cars (G) Out |  |  |
