@@ -21,7 +21,7 @@
 | Oct 28 (Tue) | Planning I: Graph Planners [Recording](https://youtu.be/-hz4XOJO4N4)              |  |  |  |
 | Oct 30 (Thu) | Planning II: Sampling-based Planners [Recording](https://youtu.be/RjW22CQWMPk)                   | HW8 Due, [HW9A Planning (I)](https://drive.google.com/file/d/1T1XGFiUa5fisBjnSMWCO0aU2otbpi_mh/view?usp=sharing) [LaTeX](https://drive.google.com/file/d/1Sx8JE0jiebuZIK9UB7iL18ETjNixrVc1/view?usp=sharing) Out                                   |  | Graph Search Whiteboard Problems w/ Julius|
 | Nov 4 (Tue)  | **Democracy Day – No Class**                   |                                    |  |  |
-| Nov 6 (Thu)  | Planning III: Cost maps, C-space, Local & Global Planners                        |                                    |  | Jupiter Notebooks, PyTorch, & Networks w/ Smrithi |
+| Nov 6 (Thu)  | Planning III: Cost maps, C-space, Local & Global Planners                        | [HW9B Planning (I)](https://drive.google.com/file/d/1gF-JeZA8g6D5n5sG2hH_UAnk_ZQ0JSbh/view?usp=sharing) [LaTeX](https://drive.google.com/file/d/1dP1ZqK9D8147kVOU7Q6I3hC0manEIp1-/view?usp=sharing)                                   |  | Jupiter Notebooks, PyTorch, & Networks w/ Smrithi |
 | Nov 11 (Tue) | Learning for Navigation: DAGGER                | HW9 Due, HW10 Autonomous Turtle Cars (G) Out |  |  |
 | Nov 13 (Thu) | Manipulation I                            |                                    |  | Manipulation Whiteboard Problems w/ Smrithi |
 | Nov 18 (Tue) | Manipulation II                      | HW11 Manipulation (G) Out |  |  |
