@@ -24,7 +24,7 @@
 | Nov 6 (Thu)  | Planning III: Cost maps, C-space, Local & Global Planners                        | HW9A Due                                   |  | Jupiter Notebooks, PyTorch, & Networks w/ Smrithi |
 | Nov 11 (Tue) | Learning for Navigation: DAGGER                | HW9B Due, [HW10A Autonomous Turtle Cars (G)](https://drive.google.com/file/d/1FhiEGB93WNRHdpW_F3WU0pJp5RRB9gNj/view?usp=sharing) [LaTeX](https://drive.google.com/file/d/1RLObPsmXdNKwgCgF6OIcGwArdTrMJNAZ/view?usp=sharing) Out | [DWA Paper](https://drive.google.com/file/d/19exMcnNLItXjkc-joKbzepdMuBqPdCaO/view?usp=sharing), [Pure Pursuit Paper](https://drive.google.com/file/d/1nxUfRdyrrZH4_XaCjT1zhTGKjgEfERvn/view?usp=sharing) |  |
 | Nov 13 (Thu) | Manipulation I                            |                                   |  | Manipulation Whiteboard Problems w/ Smrithi |
-| Nov 18 (Tue) | Manipulation II                      | [HW11 Manipulation (G)](https://drive.google.com/file/d/1DCcHY0QzizlTPREcVPVIl-0Ozxk2HfBE/view?usp=sharing) [LaTeX](https://drive.google.com/file/d/15sUpzBdQxvzU6huLJMZYu4E5a9GktaPV/view?usp=sharing) Out |  |
+| Nov 18 (Tue) | Manipulation II                      | [HW11 Manipulation (G)](https://drive.google.com/file/d/1p_Aiqu98KZcXANi2W4xm3ARwPcL711Qp/view?usp=sharing) [LaTeX](https://drive.google.com/file/d/15sUpzBdQxvzU6huLJMZYu4E5a9GktaPV/view?usp=sharing) Out |  |
 | Nov 20 (Thu) | Systems Integration                            |                                    |  | Review w/ Alex+Kacper |
 | Nov 25 (Tue) | Exam 2                                         | HW11 Due                                   |  |  |
 | Nov 27 (Thu) | **Thanksgiving – No Class**                    |                                    |  |  |
