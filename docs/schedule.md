@@ -28,6 +28,6 @@
 | Nov 20 (Thu) | Systems Integration                            | [Exam 2 Practice](https://drive.google.com/file/d/1HbCbhZeegbJSmzRDrqRB-5YY0AfIuu5q/view?usp=sharing) [Exam 2 Practice Solutions](https://drive.google.com/file/d/173glGBFOuvGL2Vx8zfRoyy4PrMGIISjN/view?usp=share_link), [set2 solutions](https://drive.google.com/file/d/1r18hdYUKnHiygoCEcth90DDcDlK2LSXx/view?usp=sharing)                                   |  | [Review w/ Alex+Kacper](https://cmu.zoom.us/rec/share/5bIeU6OOItG41SHcavYYpIa8LpRRdTJ8o6y3e0z4k8Rx42oIOPJWxpCysDWbDCWr.6ocZSrnxeVJjC_Lf) Password: NKeWE4J% |
 | Nov 25 (Tue) | Exam 2                                         | HW11 Due                                   |  |  |
 | Nov 27 (Thu) | **Thanksgiving – No Class**                    |[HW10B Behaviour Tree (G)](https://drive.google.com/file/d/12X_Tzg2F6bkB45LSgc-1W00tJwMj78zo/view?usp=sharing)[LaTeX](https://drive.google.com/file/d/1JMh132NH30qf3ylPv3zQRSxQbHGs00mx/view?usp=sharing)Out                               |  |  |
-| Dec 2 (Tue)  | Systems Integration II / Demo Prep             |                                    |  |  |
-| Dec 4 (Thu)  | Course Summary / Demo Prep                     |                                    |  | HW 10 Demos |
+| Dec 2 (Tue)  | Course Summary             |                                    |  |  |
+| Dec 4 (Thu)  | No Class - Demo Prep                     |                                    |  | HW 10 Demos |
 | Dec 9 (Tue)  | **Reading Day – No Class**                     |       |  |  |
