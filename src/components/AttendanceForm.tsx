@@ -116,7 +116,7 @@ const AttendanceForm: React.FC = () => {
       const minutes = easternMinute;
       const currentTimeInMinutes = hours * 60 + minutes;
 
-      const isTuesdayOrThursday = dayOfWeek === 2 || dayOfWeek === 4;
+      const isTuesdayOrThursday = dayOfWeek === 1 || dayOfWeek === 2 || dayOfWeek === 4;
 
       const startTime = 11 * 60 + 59; // 15 * 60 + 22
       const endTime   = 14 * 60 + 25; // 15 * 60 + 75
