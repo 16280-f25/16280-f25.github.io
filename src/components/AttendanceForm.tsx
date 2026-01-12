@@ -118,7 +118,7 @@ const AttendanceForm: React.FC = () => {
 
       const isTuesdayOrThursday = dayOfWeek === 2 || dayOfWeek === 4;
 
-      const startTime = 13 * 60 + 59; // 15 * 60 + 22
+      const startTime = 11 * 60 + 59; // 15 * 60 + 22
       const endTime   = 14 * 60 + 25; // 15 * 60 + 75
 
       const isWithinTimeWindow = currentTimeInMinutes >= startTime && currentTimeInMinutes < endTime;
