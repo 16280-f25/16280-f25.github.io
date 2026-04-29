@@ -29,5 +29,5 @@
 | Nov 25 (Tue) | Exam 2                                         | HW11 Due                                   |  |  |
 | Nov 27 (Thu) | **Thanksgiving – No Class**                    |[HW10B Behaviour Tree (G)](https://drive.google.com/file/d/12X_Tzg2F6bkB45LSgc-1W00tJwMj78zo/view?usp=sharing)[LaTeX](https://drive.google.com/file/d/1JMh132NH30qf3ylPv3zQRSxQbHGs00mx/view?usp=sharing)Out                               |  |  |
 | Dec 2 (Tue)  | Course Summary             |                                    |  |  |
-| Dec 4 (Thu)  | No Class - Demo Prep                     |                                    |  | HW 10 Demos |
+| Dec 4 (Thu)  | No Class - Demo Prep                     |                                    |  | HW 10 Demos | 
 | Dec 9 (Tue)  | **Reading Day – No Class**                     |       |  |  |
